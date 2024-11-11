@@ -1,4 +1,4 @@
-Practical 1: 50 Prime N
+Practical 2: 50 Prime N
 
 public class PrimeNumbers {
 public static void main(String[] args) {
