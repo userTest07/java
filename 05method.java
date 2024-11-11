@@ -1,4 +1,4 @@
-Practical 4: Method 
+Practical 5: Method 
 
 class Adder{ 
 static int add(int a,int b){return a+b;} 
